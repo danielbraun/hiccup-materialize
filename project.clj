@@ -1,4 +1,4 @@
-(defproject hiccup-materialize "0.1.0-SNAPSHOT"
+(defproject hiccup-materialize "0.1.0"
   :description "Hiccup components for the Materialize front-end framework."
   :url "https://github.com/danielbraun/hiccup-materialize"
   :license {:name "Eclipse Public License"
